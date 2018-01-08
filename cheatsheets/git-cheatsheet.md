@@ -1,4 +1,4 @@
-## Basic Git Commands
+# Basic Git Commands
 
 * [Git Documentation](http://git-scm.com/doc)
 
@@ -18,7 +18,7 @@ git checkout -b branchname | create a branch with branchname)
 git branch | sees what branch you are on
 git checkout master | switches back to the default master branch type
 
-## Basic Github
+# Basic Github
 
 * [Github Help](https://help.github.com)
 * repo = repository

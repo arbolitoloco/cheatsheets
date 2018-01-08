@@ -1,4 +1,4 @@
-## Basic Markdown
+# Basic Markdown
 
 <code>
 # Heading 1
@@ -8,16 +8,16 @@
 ##### Heading 5
 </code>
 
-### Lists
+## Lists
 
-#### Unordered
+### Unordered
 <code>
 	* Item 1
 	* Item 2
 	* Item 3
 </code>
 
-#### Ordered
+### Ordered
 <code>
 	1. Item 1
 	2. Item 2
@@ -25,12 +25,12 @@
 	4. Item 4
 </code>
 
-### Links
+## Links
 <code>
 	[Link name](url)
 </code>
 
-### Other cheatsheets
+## Other cheatsheets
 
 * [An introduction to markdown](http://daringfireball.net/projects/markdown/)
 * [R Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)

@@ -1,6 +1,6 @@
-## Command Line Basics
+# Command Line Basics
 
-### Windows (Powershell)
+## Windows (Powershell)
 
 Command | Description
 ------------------------------
